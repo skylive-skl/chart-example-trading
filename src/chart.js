@@ -49,7 +49,7 @@ series.priceScale().applyOptions({
 });
 
 series.setData([
-    { time: '2018-10-19', value: 100.19 },
+    { time: '2018-10-19', value: 25.19 },
     { time: '2018-10-22', value: 25.87 },
     { time: '2018-10-23', value: 25.83 },
     { time: '2018-10-24', value: 25.78 },
@@ -68,7 +68,7 @@ series.setData([
     { time: '2018-11-12', value: 25.76 },
     { time: '2018-11-13', value: 25.8 },
     { time: '2018-11-14', value: 25.77 },
-    { time: '2018-11-15', value: 50.75 },
+    { time: '2018-11-15', value: 25.75 },
     { time: '2018-11-16', value: 25.75 },
     { time: '2018-11-19', value: 25.75 },
     { time: '2018-11-20', value: 25.72 },
@@ -165,7 +165,7 @@ series.setData([
     { time: '2019-04-04', value: 26.06 },
     { time: '2019-04-05', value: 26.16 },
     { time: '2019-04-08', value: 26.12 },
-    { time: '2019-04-09', value: 75.07 },
+    { time: '2019-04-09', value: 26.07 },
     { time: '2019-04-10', value: 26.13 },
     { time: '2019-04-11', value: 26.04 },
     { time: '2019-04-12', value: 26.04 },
